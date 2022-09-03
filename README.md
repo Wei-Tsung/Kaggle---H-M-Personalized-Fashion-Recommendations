@@ -1,5 +1,5 @@
 # Kaggle - H&M Personalized-Fashion-Recommendations
-Provide product recommendations based on previous purchases
+Purpose : Provide product recommendations based on previous purchases
 
 # Context
 
